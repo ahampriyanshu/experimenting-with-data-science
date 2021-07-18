@@ -1,1 +1,1 @@
-# data_science_bootcamp
+# data-science
